@@ -1,0 +1,13 @@
+*{
+    font-family: "Comic Sans";
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 200%;
+    padding: 40px;
+    background-color: darkblue;
+    color: white;
+}
