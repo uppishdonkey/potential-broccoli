@@ -11,3 +11,16 @@
     background-color: darkblue;
     color: white;
 }
+
+nav {
+    display: flex;
+    font-size: 110%;
+    background-color: #d8a47f;
+    color: #13293d;
+    padding: 14px 20px;
+    justify-content: flex-end;
+}
+
+li {
+    list-style: circle;
+}
